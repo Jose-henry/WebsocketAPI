@@ -1,0 +1,24 @@
+{
+  "name": "te-l",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "natural": "^7.0.0",
+    "sentiment": "^5.0.2",
+    "socket.io": "^4.7.5",
+    "stopword": "^3.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
